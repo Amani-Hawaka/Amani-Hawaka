@@ -2,7 +2,7 @@
 ** My name is Amani. 
 I'm a programmer who is interested in game development.
 ## My Hard Skills:
-- Python, algorithms
+- Python, algorithms, OOP
 - Telegram, pyrogram
 - PyGame
 - Flask, REST API
