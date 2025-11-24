@@ -1,5 +1,20 @@
-## Hi there 👋
+## Hello!
+** My name is Amani. 
+I'm a programmer who is interested in game development.
+## My Hard Skills:
+- Python, algorithms
+- Telegram, pyrogram
+- PyGame
+- Flask, REST API
+- SQLite
+- Unity, C#
+- Digital Art
+- Live2d Rigging
 
+## My Projects:
+
+## Contact Me:
+- Telegram: Hawaka8841
 <!--
 **Amani-Hawaka/Amani-Hawaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
