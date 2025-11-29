@@ -17,7 +17,10 @@ I'm a programmer who is interested in game development.
 - Teamwork
 - Adapatbility
 ## My Projects:
-https://github.com/Amani-Hawaka/Animal-Classifier
+- Animal Classifier v3: https://github.com/Amani-Hawaka/Animal-Classifier
+- Platform Game: https://github.com/Amani-Hawaka/platform-game
+- Monkey Bot on Telegram: https://github.com/Amani-Hawaka/Telegram-Bot
+- Website with Video Game Descriptions and Authorization: https://github.com/Amani-Hawaka/GameInfo.com
 ## Contact Me:
 - Telegram: Hawaka8841
 <!--
