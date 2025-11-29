@@ -10,7 +10,12 @@ I'm a programmer who is interested in game development.
 - Unity, C#
 - Digital Art
 - Live2d Rigging
-
+## My Soft Skills:
+- Creativity
+- Leadershsip
+- Communication
+- Teamwork
+- Adapatbility
 ## My Projects:
 
 ## Contact Me:
